@@ -2,6 +2,8 @@
 
 ## To run
 
+Require Clojure installed
+
 First run `npm i`
 
 Then either 
@@ -15,6 +17,8 @@ Or
 ```
 npm run dev
 ```
+
+Wait until you see  "HTTP server available at http://localhost:8000"
 
 URL : http://localhost:8000/
 
