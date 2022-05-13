@@ -1,4 +1,4 @@
-# wordle-clojureintechproject
+# clojureintechproject
 
 ## To run
 
